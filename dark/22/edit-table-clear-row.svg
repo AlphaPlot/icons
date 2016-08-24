@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="edit-table-clear-row.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="21.48"
+     inkscape:cx="7.6960496"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+  </defs>
+  <path
+     style="fill:#f2f2f2;fill-opacity:1"
+     d="m 4.1396648,10.929236 5.29297,0 4.0000002,0 4,0 0.70703,0 0,-0.70703 0,-0.2929695 -0.29297,0 -4,-4 4.29297,0 0,-1 -14.0000002,0 0,1 0.29297,0 4,4 -4.29297,0 0,0.9999995 m 1.70703,-4.9999995 2.58594,0 4.0000002,4 -2.5859402,0 -4,-4 m 4,0 2.5859402,0 4,4 -2.58594,0 -4.0000002,-4"
+     id="path8"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#da4453;fill-opacity:1;stroke:none"
+     d="m 15.215556,12.903165 -0.99023,0.99023 2.00976,2.00977 -2.00976,2.00977 0.99023,0.99023 2.00977,-2.00977 2.00976,2.00977 0.99024,-0.99023 -2.00977,-2.00977 2.00977,-2.00977 -0.99024,-0.99023 -2.00976,2.00977 -2.00977,-2.00977 z"
+     id="rect4126" />
+</svg>
